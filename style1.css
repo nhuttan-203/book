@@ -1,0 +1,35 @@
+.container h1 {
+    font-size: 40px;
+}
+
+.container p {
+    font-size: 30px;
+}
+
+.container {
+    margin: 0 auto;
+    background-color: rgb(253, 0, 156);
+    text-align: center;
+    width: 700px;
+    height: 900px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 1%;
+    border-top-left-radius: 1%;
+    border-left: 30px inset rgb(253, 0, 156);
+    border-bottom: 20px solid gray;
+    border-right: 20px inset gray;
+    border-top: 10px solid gray;
+
+}
+
+.container img {
+    width: 43%;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+div .TG {
+    margin-left: 400px;
+    margin-top: 30px;
+}
