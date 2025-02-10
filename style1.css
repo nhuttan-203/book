@@ -20,7 +20,8 @@
     border-bottom: 20px solid gray;
     border-right: 20px inset gray;
     border-top: 10px solid gray;
-
+    font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgba(2, 11, 79, 0.758);
 }
 
 .container img {
